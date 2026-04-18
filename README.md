@@ -1,6 +1,6 @@
 # ¡Hola! Soy Rebeca Cruz ✨
 
-### 🚀 Estudiante de Ingeniería en Desarrollo de Software | Fullstack Developer en formación
+###  Estudiante de Ingeniería en Desarrollo de Software | Fullstack Developer en formación
 
 Soy una apasionada de la tecnología. Me considero una persona activa, orientada al trabajo en equipo y con una sed constante de aprendizaje.
 
